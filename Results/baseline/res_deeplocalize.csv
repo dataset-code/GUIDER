@@ -120,3 +120,43 @@ id,time,msg,res
 33969059,0.635320187,"Batch 0 layer 4: Error in delta Weights, terminating training",1
 31880720,0.85492754,"Batch 0 layer 6: Error in delta Weights, terminating training",0
 31627380,,crash,0
+78061528,,crash,0
+73997809,49.34016228,no report,0
+72336254,0.49811697,"Batch 0 layer 3: Error in forward, terminating training",1
+67730059,,crash,0
+55536102,26.12903237,no report,0
+26,,crash,0
+46,0.43765831,"Batch 0 layer 0: Error in delta Weights, terminating training",0
+41,,crash,0
+63,,crash,0
+48,,crash,0
+69144854,,crash,0
+68087196,,crash,0
+67396593,,crash,0
+66288253,,crash,0
+65599903,,crash,0
+65208382,,crash,0
+64446561,,crash,0
+64188884,,crash,0
+64151679,1.419812679,"Batch 0 layer 9: Error in delta Weights, terminating training",1
+63532837,0.630683899,"Batch 0 layer 4: Error in delta Weights, terminating training",1
+63242449,0.536946774,"Batch 0 layer 1: Error in delta Weights, terminating training",1
+61294801,788.248317,no report,0
+60267894,50850.97348,no report,0
+59837926,2.120830297,"Batch 4: MDL, terminating training",0
+59740444,1.257351637,"Batch 0 layer 10: Error in delta Weights, terminating training",1
+59138513,0.758095503,"Batch 0 layer 3: Error in delta Weights, terminating training",1
+58847723,,crash,0
+58508286,,crash,0
+58083502,,crash,0
+56545687,0.847836256,"Batch 0 layer 6: Error in delta Weights, terminating training",1
+54231049,97.86743784,no report,0
+53876097,,crash,0
+53374114,,crash,0
+53177605,,crash,0
+52929868,,crash,0
+52445293,2014.022575,no report,0
+51931932,1669.334398,no report,0
+51312608,0.523320436,"Batch 0 layer 1: Error in delta Weights, terminating training",1
+43476631,544.2980027,no report,0
+42293600,1.830646038,"Batch 0 layer 2: Error in delta Weights, terminating training",0

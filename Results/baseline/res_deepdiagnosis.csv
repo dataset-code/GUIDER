@@ -120,3 +120,43 @@ id,time,msg,res
 33969059,2.867497206,"	Batch 0: Invalid accuracy, terminating training		 --- 2.786243438720703 seconds ---	 	 Please change the activation function at layer : 4 	",1
 31880720,1.660734892,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 1.5827443599700928 seconds ---		 Please change the loss function 	 OR Please change the activaton function at layer: 7 	",0
 31627380,,crash,0
+78061528,,crash,0
+73997809,1.447114944,"	Batch 4 layer 0: Unchange Tensor in forward, terminating training		 --- 1.3861510753631592 seconds ---	 	 Learning Rate 	",0
+72336254,0.706377268,"	 Batch 0 layer 3: Numerical Problem Forward, terminating training 		 --- 0.6620228290557861 seconds ---		 Normalize the data 	",1
+67730059,,crash,0
+55536102,4.344452858,no report,0
+26,,crash,0
+46,0.492580175,"	Batch 0 layer 0: Numerical Error in delta Weights, terminating training		 --- 0.45494604110717773 seconds ---		 Please change the loss function 	 OR Please change the activaton function at layer: 1 	",0
+41,,crash,0
+63,,crash,0
+48,249.3231926,no report,0
+69144854,,crash,0
+68087196,,crash,0
+67396593,,crash,0
+66288253,,crash,0
+65599903,,crash,0
+65208382,,crash,0
+64446561,,crash,0
+64188884,,crash,0
+64151679,1.570425987,"	Batch 0 layer 9: Numerical Error in delta Weights, terminating training		 --- 1.522979497909546 seconds ---",1
+63532837,4.106646776,"	Batch 0 layer 4: Numerical Error in delta Weights, terminating training		 --- 4.042482137680054 seconds ---	",1
+63242449,0.825119257,"	Batch 0 layer 1: Numerical Error in delta Weights, terminating training		 --- 0.7855937480926514 seconds ---	",1
+61294801,0.857812166,"	Batch 0 layer 4:  Out of Rang Problem, terminating training		 --- 0.8054578304290771 seconds ---	 	 change the activation function to softmax 	",1
+60267894,0.743661404,"	Batch 0: Invalid accuracy, terminating training		 --- 0.6552832126617432 seconds ---	 	 Please change the activation function at layer : 2 	",1
+59837926,0.716627121,"	Batch 0: Invalid accuracy, terminating training		 --- 0.671318769454956 seconds ---	 	 Please change the activation function at layer : 2 	",1
+59740444,4.350229025,"	Batch 0 layer 10: Numerical Error in delta Weights, terminating training		 --- 4.2965216636657715 seconds ---	",1
+59138513,0.980955362,"	Batch 0 layer 3: Numerical Error in delta Weights, terminating training		 --- 0.9165248870849609 seconds ---	",1
+58847723,,crash,0
+58508286,,crash,0
+58083502,53.74435449,no report,0
+56545687,3.418451071,"	Batch 0 layer 6: Numerical Error in delta Weights, terminating training		 --- 3.367138147354126 seconds ---	",1
+54231049,0.888502121,"	Batch 0: Invalid accuracy, terminating training		 --- 0.8381960391998291 seconds ---	 	 Please change the activation function at layer : 4 	",0
+53876097,,crash,0
+53374114,1.735945702,no report,0
+53177605,1.12881422,"	 Batch 0 layer 1: Numerical Problem Forward, terminating training 		 --- 1.077530860900879 seconds ---		Learning Rate 	",1
+52929868,,crash,0
+52445293,1.227834463,"	Batch 0: Invalid accuracy, terminating training		 --- 1.1740520000457764 seconds ---	 	 Please change the activation function at layer : 5 	",0
+51931932,3.778902292,"	 Batch 0 layer 2: Numerical Problem Forward, terminating training 		 --- 3.6958606243133545 seconds ---		 Normalize the data 	",1
+51312608,0.482399225,"	Batch 0 layer 1: Numerical Error in delta Weights, terminating training		 --- 0.4419677257537842 seconds ---	",1
+43476631,53.07535529,no report,0
+42293600,1.929690361,"	Batch 0 layer 2: Numerical Error in delta Weights, terminating training		 --- 1.8625390529632568 seconds ---		 Please change the activaton function at layer: 3 	",0
