@@ -1,0 +1,778 @@
+﻿url,id,title
+https://stackoverflow.com/questions/75220070,75220070,Pytorch convolutional Autoencoder
+https://stackoverflow.com/questions/75218609,75218609,Validation acc is very high in each fold but Test acc is very low
+https://stackoverflow.com/questions/74552312,74552312,NaN loss in fit parametrs
+https://stackoverflow.com/questions/74093824,74093824,How to implement a simple neural network using keras
+https://stackoverflow.com/questions/73909006,73909006,How to implement a given model to Keras?
+https://stackoverflow.com/questions/73780627,73780627,Neural network low accuracy
+https://stackoverflow.com/questions/73762984,73762984,Masking in LSTM with variable length input does not work
+https://stackoverflow.com/questions/73674570,73674570,Tensorflow model returning insane loss values
+https://stackoverflow.com/questions/73589496,73589496,Why is the validation accuracy fluctuating in every epoch?
+https://stackoverflow.com/questions/73410090,73410090,Very low validation accuracy but high training accuracy
+https://stackoverflow.com/questions/73406385,73406385,simple Neural Network gives random prediction result
+https://stackoverflow.com/questions/73009464,73009464,My tensorflow/keras CNN does not improve over epochs
+https://stackoverflow.com/questions/73001179,73001179,Tensorflow model is predicting two values instead of one
+https://stackoverflow.com/questions/72994736,72994736,Cannot verify manually the calculations by tf.keras.losses.BinaryCrossentropy
+https://stackoverflow.com/questions/72901551,72901551,Invalid Argument Error: Graph Execution Error on Tensorflow NN
+https://stackoverflow.com/questions/72874743,72874743,Training a keras based network from scratch on Tensorflow
+https://stackoverflow.com/questions/72759580,72759580,Loss returns nan in tensorflow
+https://stackoverflow.com/questions/72753295,72753295,Accuracy is not increasing in images classification when using TensorFlow model
+https://stackoverflow.com/questions/72709632,72709632,"Keras Loss is Negative (Binary CrossEntropy, double output model)"
+https://stackoverflow.com/questions/72632411,72632411,Keras producing error while working with ImageDataGenerator
+https://stackoverflow.com/questions/72539378,72539378,How to solve Graph execution error during my model training?
+https://stackoverflow.com/questions/72437881,72437881,Stateful RNN (LSTM) in keras
+https://stackoverflow.com/questions/72362319,72362319,How to fix cardinality error in my CNN model
+https://stackoverflow.com/questions/72118367,72118367,Tensorflow: InvalidArgumentError: Graph execution error:
+https://stackoverflow.com/questions/72038257,72038257,Keras Sequential model gives less accuracy than Functional Model though being same
+https://stackoverflow.com/questions/71950668,71950668,CNN predicting negative values
+https://stackoverflow.com/questions/71799046,71799046,model.fit gives InvalidArgumentError: Graph execution error:
+https://stackoverflow.com/questions/71764359,71764359,How can I fix this problem related to Conv2D of Keras?
+https://stackoverflow.com/questions/71764294,71764294,Invalid Argument Error: Graph Execution Error
+https://stackoverflow.com/questions/71755080,71755080,Why do I have extremely low loss but accuracy is 0?
+https://stackoverflow.com/questions/71745320,71745320,WHY tf.keras.layers.Conv2D gives different results at each run
+https://stackoverflow.com/questions/71493889,71493889,how can reslove : InvalidArgumentError: Graph execution error?
+https://stackoverflow.com/questions/71479172,71479172,LSTM Regression issues with masking and intuition (keras)
+https://stackoverflow.com/questions/71357014,71357014,Running a fine-tune model for my CNN : Value Error
+https://stackoverflow.com/questions/71300786,71300786,TensorFlow Probability - want NN to output multiple distributions
+https://stackoverflow.com/questions/71255139,71255139,How to fit a keras model with a dataset?
+https://stackoverflow.com/questions/71153492,71153492,Invalid Argument Error / Graph Execution Error
+https://stackoverflow.com/questions/71083471,71083471,How Can I Increase My CNN Model's Accuracy
+https://stackoverflow.com/questions/70781692,70781692,How to make a CNN model correctly?
+https://stackoverflow.com/questions/70734861,70734861,Evaluation of keras model returns loss:0 and accuracy:0
+https://stackoverflow.com/questions/70642220,70642220,Very strange keras behaviour - Better loss with an error in the code
+https://stackoverflow.com/questions/70640156,70640156,Wrong predictions with own mnist-like images
+https://stackoverflow.com/questions/70639788,70639788,Why My Deep Learning Model is not changing neither its loss nor its accuracy
+https://stackoverflow.com/questions/70585705,70585705,ValueError when fitting keras model
+https://stackoverflow.com/questions/70378719,70378719,Why does an ANN validation accuracy oscillate?
+https://stackoverflow.com/questions/70315112,70315112,Keras image classification val_accuracy doesn't improve
+https://stackoverflow.com/questions/70194443,70194443,Simple Neural Network
+https://stackoverflow.com/questions/70101855,70101855,TensorFlow: ValueError: Shapes are incompatible
+https://stackoverflow.com/questions/69990800,69990800,Why is TensorFlow model reporting incorrect high confidence level for predictions?
+https://stackoverflow.com/questions/69977877,69977877,Loss function has negative values
+https://stackoverflow.com/questions/69826600,69826600,LSTM with multiple input features and multiple outputs
+https://stackoverflow.com/questions/69755379,69755379,Why is my loss function increasing with each epoch?
+https://stackoverflow.com/questions/69750470,69750470,Shapes mismatch in Tensorflow model
+https://stackoverflow.com/questions/69436647,69436647,Training Accuracy Stuck at 0.50+-
+https://stackoverflow.com/questions/69191418,69191418,Tensorflow Model prediction output is always [0. 1.]
+https://stackoverflow.com/questions/69144854,69144854,Why is my Model's performance plateauing?
+https://stackoverflow.com/questions/68992377,68992377,Conv2D lost a dimension from tensor. resulting in incompatible dimension error
+https://stackoverflow.com/questions/68947291,68947291,TensorFlow False Detection
+https://stackoverflow.com/questions/68809470,68809470,Kaggle Titanic-Machine Learning From Disaster with TensorFlow: Model Training unable to get loss values
+https://stackoverflow.com/questions/68692047,68692047,Why accuracy stays zero in Keras LSTM while other metrics improve when training?
+https://stackoverflow.com/questions/68607955,68607955,Methods for increasing accuracying of a CNN for image classification
+https://stackoverflow.com/questions/68533626,68533626,Keras LSTM: predict multiple sequences from single input array
+https://stackoverflow.com/questions/68445134,68445134,Predicting single image using Tensorflow not being accurate
+https://stackoverflow.com/questions/68323793,68323793,Keras LSTM input ValueError: Shapes are incompatible
+https://stackoverflow.com/questions/68287769,68287769,Keras setting up dataset
+https://stackoverflow.com/questions/68137562,68137562,accuracy for 1D CNN model is very low
+https://stackoverflow.com/questions/68111196,68111196,Predicting the square root of a number using Machine Learning
+https://stackoverflow.com/questions/68087196,68087196,Optimising Keras CNN
+https://stackoverflow.com/questions/68085834,68085834,TensorFlow image classification loss doesn't decrease
+https://stackoverflow.com/questions/68068140,68068140,3D CNN model throwing a Negative dimension error-- dimension issue
+https://stackoverflow.com/questions/68061611,68061611,"LSTM occurs ValueError: Shapes (5, 2, 3) and (5, 3) are incompatible"
+https://stackoverflow.com/questions/68040169,68040169,Testing Keras Sequential Neural Network - predictions totally inaccurate
+https://stackoverflow.com/questions/67971122,67971122,Deep learning CNN network for CIFAR10 and FMNIST
+https://stackoverflow.com/questions/67951244,67951244,Model.evaluate returns 0 loss when using custom model
+https://stackoverflow.com/questions/67907000,67907000,Tensorflow masked loss function wrong inputs
+https://stackoverflow.com/questions/67723770,67723770,TensorFlow functional too slow
+https://stackoverflow.com/questions/67654494,67654494,cnn model for binary classification always returning 1
+https://stackoverflow.com/questions/67643800,67643800,MLPclassifier from sklearn shows different accuracies when executed on other machine?
+https://stackoverflow.com/questions/67615051,67615051,Implementing Binary Cross Entropy loss gives different answer than Tensorflow's
+https://stackoverflow.com/questions/67517895,67517895,Accuracy too low with very simple CNN model using Keras in Tensorflow
+https://stackoverflow.com/questions/67460062,67460062,Neural Network and Binary classification Guidance
+https://stackoverflow.com/questions/67396593,67396593,Keras accuracy not increasing
+https://stackoverflow.com/questions/67380042,67380042,Multi class image classification using CNN
+https://stackoverflow.com/questions/67316256,67316256,Why do I get different predictions using Keras sequential neural network in a loop?
+https://stackoverflow.com/questions/67291205,67291205,cnn model for binary classification with 86% val_accuracy always returning 1
+https://stackoverflow.com/questions/67202347,67202347,I can't understand LSTM's prediction output
+https://stackoverflow.com/questions/67158990,67158990,"Received a label value of 17 which is outside the valid range of [0, 12) - Keras Python"
+https://stackoverflow.com/questions/67071953,67071953,Incompatible Shapes Keras NN
+https://stackoverflow.com/questions/67036597,67036597,Why can't I classify my data perfectly on this simple problem using a NN?
+https://stackoverflow.com/questions/67032620,67032620,Multiple variable output in Neural Network | Why is Keras yielding negative binary_cross_entropy?
+https://stackoverflow.com/questions/66988763,66988763,Keras model accuracy is not improving - Image Classification
+https://stackoverflow.com/questions/66981126,66981126,Accuracy increase but loss also increases
+https://stackoverflow.com/questions/66977351,66977351,My machine learning model keeps predicting the wrong thing even though it has a high accuracy
+https://stackoverflow.com/questions/66900614,66900614,Error computing gradients wrt input with Keras+tensorflow
+https://stackoverflow.com/questions/66893949,66893949,Why does tensorflow show inaccurate loss?
+https://stackoverflow.com/questions/66860294,66860294,Keras Network Using Scikit-Learn Pipeline Resulting in ValueError
+https://stackoverflow.com/questions/66845924,66845924,Multi-input Multi-output Model with Keras Functional API
+https://stackoverflow.com/questions/66719167,66719167,Keras: val_loss & val_accuracy are not changing
+https://stackoverflow.com/questions/66667550,66667550,training loss is nan in keras LSTM
+https://stackoverflow.com/questions/66615298,66615298,LSTM: loss value is not changing
+https://stackoverflow.com/questions/66570592,66570592,"tensorflow.python.framework.errors_impl.InvalidArgumentError: Received a label value of 357436800 which is outside the valid range of [0, 2)"
+https://stackoverflow.com/questions/66468006,66468006,Why is the keras model less accurate and not recognized?
+https://stackoverflow.com/questions/66288253,66288253,How to Increase Accuracy of CNN on Image Recognition
+https://stackoverflow.com/questions/66157475,66157475,Why does Keras training slow down after a while?
+https://stackoverflow.com/questions/66146878,66146878,Training Accuracy not increasing - CNN with Tensorflow
+https://stackoverflow.com/questions/66099474,66099474,The accuracy of fit_generator and fit is different
+https://stackoverflow.com/questions/66088066,66088066,Training loss stays constant while validation loss fluctuates heavily
+https://stackoverflow.com/questions/66080745,66080745,Keras Model predicts NaN
+https://stackoverflow.com/questions/66040195,66040195,ValueError when running image classification model with Tensorflow/Keras
+https://stackoverflow.com/questions/65946073,65946073,keras model with high loss
+https://stackoverflow.com/questions/65933295,65933295,why my model performance performing so slow?
+https://stackoverflow.com/questions/65879049,65879049,MultiOutput Classification with TensorFlow Extended (TFX)
+https://stackoverflow.com/questions/65745053,65745053,Tensorflow softmax does not ignore masking value
+https://stackoverflow.com/questions/65695581,65695581,Neural network predictions not as expected
+https://stackoverflow.com/questions/65643459,65643459,Keras Nan value when computing the loss
+https://stackoverflow.com/questions/65599903,65599903,Binary classification with softmax activation always outputs 1
+https://stackoverflow.com/questions/65538688,65538688,Convert from sequential to Functional API model
+https://stackoverflow.com/questions/65523447,65523447,Why is the tensorflow 'accuracy' value always 0 despite loss decaying and evaluation results being reasonable
+https://stackoverflow.com/questions/65475136,65475136,Value error while training model in Keras
+https://stackoverflow.com/questions/65408896,65408896,How to do prediction with 2 inputs?
+https://stackoverflow.com/questions/65377916,65377916,Why is this ML model giving me zero accuracy?
+https://stackoverflow.com/questions/65352089,65352089,Accuracy of the model is not improving despite trying different optimizers and batch sizes
+https://stackoverflow.com/questions/65340258,65340258,Pytorch RNN model not learning anything
+https://stackoverflow.com/questions/65285104,65285104,How could I train a keras model with one output and multiple y_true?
+https://stackoverflow.com/questions/65275387,65275387,Getting pretty bad accuracy using CNN Model in Keras
+https://stackoverflow.com/questions/65219970,65219970,How to design a neural network to predict arrays from arrays
+https://stackoverflow.com/questions/65208382,65208382,Simple keras neural network stuck at 87.5% accuracy
+https://stackoverflow.com/questions/65094975,65094975,Why is the probability predicted by my keras model always zero
+https://stackoverflow.com/questions/64887009,64887009,Weird accuracy score in approximation sin
+https://stackoverflow.com/questions/64878118,64878118,CNN Model Accuracy not going above 10%
+https://stackoverflow.com/questions/64838581,64838581,Why I'm getting zero accuracy in Keras binary classification model?
+https://stackoverflow.com/questions/64730471,64730471,I want to change the specific prediction of my CNN-model to a probability
+https://stackoverflow.com/questions/64698597,64698597,Need help defining a simple neural network
+https://stackoverflow.com/questions/64689483,64689483,How to do Multiclass classification with Keras?
+https://stackoverflow.com/questions/64634468,64634468,Why the neural network is not learning?
+https://stackoverflow.com/questions/64620819,64620819,Unable to build a model with Keras Model class
+https://stackoverflow.com/questions/64522751,64522751,Poor accuracy of CNN model with Keras
+https://stackoverflow.com/questions/64476565,64476565,Good training accuracy and validaiton accuracy but poor prediction accuracy
+https://stackoverflow.com/questions/64446561,64446561,Neural network not learning after 1000 epochs to solve XOR problem
+https://stackoverflow.com/questions/64410712,64410712,CNN not predicting class of image
+https://stackoverflow.com/questions/64407887,64407887,why my loss and accuracy plots are slightly shaky?
+https://stackoverflow.com/questions/64397477,64397477,Linear Regression Neural Network Tensorflow Keras Python program
+https://stackoverflow.com/questions/64230643,64230643,Keras ImageDataGenerator Low Validation Accuracy
+https://stackoverflow.com/questions/64188884,64188884,why is my model performing poorly for a keras sequential model?
+https://stackoverflow.com/questions/64151679,64151679,Deep Neural Network Not Learning Anything
+https://stackoverflow.com/questions/64140749,64140749,How to avoid stagnating loss function in tensorflow keras
+https://stackoverflow.com/questions/64130293,64130293,custom loss function in Keras with masking array as input
+https://stackoverflow.com/questions/64051575,64051575,How to improve accuracy and validation accuracy in deep learning
+https://stackoverflow.com/questions/64030319,64030319,ECG signal QRS detection with wfdb
+https://stackoverflow.com/questions/63979954,63979954,"Keras training accuracy only changing a bit, and after a few epochs it is always the same"
+https://stackoverflow.com/questions/63979900,63979900,Cannot get Reproducible Results with Keras CNN Model
+https://stackoverflow.com/questions/63958323,63958323,LSTM time series prediction - val and test loss lower then train loss
+https://stackoverflow.com/questions/63876468,63876468,I am trying to train my model with different types of fruits
+https://stackoverflow.com/questions/63835292,63835292,Keras RNN accuracy doesn't improve
+https://stackoverflow.com/questions/63768722,63768722,How do I predict data using a trained keras model
+https://stackoverflow.com/questions/63753111,63753111,VGG16 Net Validation Accuracy
+https://stackoverflow.com/questions/63703280,63703280,How to predict a single image with Keras ImageDataGenerator?
+https://stackoverflow.com/questions/63684730,63684730,Weird behaviour for my CNN validation accuracy and loss function during training phase
+https://stackoverflow.com/questions/63570028,63570028,Training gets progressively slower over time
+https://stackoverflow.com/questions/63564017,63564017,keras accuracy doesn't improve more than 59 percent
+https://stackoverflow.com/questions/63532837,63532837,Why am I getting a constant loss and accuracy?
+https://stackoverflow.com/questions/63495532,63495532,Keras: simple neural network with simple data not working
+https://stackoverflow.com/questions/63492471,63492471,Keras mixed model gives same result in every epoch
+https://stackoverflow.com/questions/63372983,63372983,"Validation Accuracy Stuck, Accuracy low"
+https://stackoverflow.com/questions/63347272,63347272,Good training/validation accuracy but poor test accuracy
+https://stackoverflow.com/questions/63342205,63342205,unstable accuracy and loss in my keras neural network model
+https://stackoverflow.com/questions/63242449,63242449,The accuracy of neural network training remains unchanged
+https://stackoverflow.com/questions/63233837,63233837,model.predict() - Model with accuracy near to 1 predicts wrong classes
+https://stackoverflow.com/questions/63168023,63168023,Image classification in python getting not accurate prediction
+https://stackoverflow.com/questions/63158891,63158891,Bidirectional LSTM gives Loss as NaN
+https://stackoverflow.com/questions/63094818,63094818,Keras model gives same output for all inputs
+https://stackoverflow.com/questions/63057691,63057691,Why can't sklearn MLPClassifier predict xor?
+https://stackoverflow.com/questions/63048848,63048848,Model works fine in Keras but not in Tensorflow
+https://stackoverflow.com/questions/63005900,63005900,Keras CNN prediction output is only predicting within a range of numbers
+https://stackoverflow.com/questions/62972000,62972000,why is the accuracy constant but loss does change?
+https://stackoverflow.com/questions/62930951,62930951,Overfitting - huge difference between training and validation accuracy
+https://stackoverflow.com/questions/62903214,62903214,"Why is my binary classification model not learning, even to overfit?"
+https://stackoverflow.com/questions/62886184,62886184,Neural Network generating negative values
+https://stackoverflow.com/questions/62864745,62864745,How to make a single prediction at a time from my Keras' Neural Net
+https://stackoverflow.com/questions/62817223,62817223,difference in the calculation of accuracy between keras and scikit-learn
+https://stackoverflow.com/questions/62813488,62813488,Tensorflow neural network doesn鈥檛 learn
+https://stackoverflow.com/questions/62752008,62752008,tensorflow 2 from Sequential to Functional
+https://stackoverflow.com/questions/62729933,62729933,Creating a LSTM Neural Network outputting two Y variables
+https://stackoverflow.com/questions/62673685,62673685,Tensorflow model prediction is slow
+https://stackoverflow.com/questions/62665454,62665454,"Why is my accuracy and loss, 0.000 and nan, in keras?"
+https://stackoverflow.com/questions/62659680,62659680,LSTM with classification
+https://stackoverflow.com/questions/62606055,62606055,CNN (VGG-16) strange behaviour on validation accuracy
+https://stackoverflow.com/questions/62595768,62595768,How to fix underfitting using a CNN/ why can't my code identify images correctly?
+https://stackoverflow.com/questions/62590244,62590244,Validation accuracy very low but good training accuracy
+https://stackoverflow.com/questions/62588326,62588326,How to increase the prediction accuracy of CNN
+https://stackoverflow.com/questions/62579163,62579163,keras gives error when using two loss function for two outputs
+https://stackoverflow.com/questions/62565559,62565559,Keras: autoencoder whit convolutional layers
+https://stackoverflow.com/questions/62534751,62534751,How to properly setup a data set for training a Keras model
+https://stackoverflow.com/questions/62464306,62464306,Why does my prediction model keep giving a different prediction result every time I run it?
+https://stackoverflow.com/questions/62446077,62446077,0 accuracy with LSTM
+https://stackoverflow.com/questions/62426388,62426388,Keras model's validation loss doesn't match the loss function output
+https://stackoverflow.com/questions/62341053,62341053,validation accuracy not improving
+https://stackoverflow.com/questions/62258350,62258350,How to use sigmoid function in python when developing a NeuralNetwork
+https://stackoverflow.com/questions/62206815,62206815,Keras Neural network works but maybe something wrong with parameters
+https://stackoverflow.com/questions/62205174,62205174,keras-tuner error in hyperparameter tuning
+https://stackoverflow.com/questions/62135123,62135123,Discrepancy in the results of model.evaluate and model.predict in Keras
+https://stackoverflow.com/questions/62100119,62100119,CNN model not learning
+https://stackoverflow.com/questions/62098505,62098505,Keras model taking too long to train
+https://stackoverflow.com/questions/62083918,62083918,Functional API Linking Feed-Forward Networks and Convolutional neural network
+https://stackoverflow.com/questions/61974271,61974271,How do I train a neural network with tensorflow-datasets?
+https://stackoverflow.com/questions/61937122,61937122,keras model prediction only one and zero instead of probability
+https://stackoverflow.com/questions/61912391,61912391,Tuning the Model to Obtain Better Performance
+https://stackoverflow.com/questions/61871071,61871071,keras lstm incorrect input_shape
+https://stackoverflow.com/questions/61870980,61870980,Keras Model Accuracy starts from 0.667 and goes to 1.0
+https://stackoverflow.com/questions/61851737,61851737,"Why does Keras gives me different results between model.evaluate, model.predicts & model.fit?"
+https://stackoverflow.com/questions/61837014,61837014,How to make a Keras Neural Net output values?
+https://stackoverflow.com/questions/61821775,61821775,"Good accuracy, bad predictions - CNN with TensorFlow Python"
+https://stackoverflow.com/questions/61785906,61785906,Keras model not learning and predicting only one class out of three classes
+https://stackoverflow.com/questions/61716422,61716422,Why is my val_loss going down but my val_accuracy stagnates
+https://stackoverflow.com/questions/61706535,61706535,Keras - Validation Loss and Accuracy stuck at 0
+https://stackoverflow.com/questions/61698995,61698995,tf.keras.predict() is much slower than Keras predict()
+https://stackoverflow.com/questions/61687014,61687014,"Going from 10 output to 25 output CNN, but modified code is not working?"
+https://stackoverflow.com/questions/61633602,61633602,Binary classification using Keras always give wrong predictions: The acc is always 0.5
+https://stackoverflow.com/questions/61619700,61619700,KERAS TUNER: object of type 'HyperParameters' has no len()
+https://stackoverflow.com/questions/61600482,61600482,Fruit Image Classifier (Python)
+https://stackoverflow.com/questions/61580264,61580264,Keras loss changes on epoch end
+https://stackoverflow.com/questions/61568463,61568463,Keras: Validation accuracy stays the exact same but validation loss decreases
+https://stackoverflow.com/questions/61553510,61553510,Tensorflow 2 LSTM: InvalidArgumentError: Shapes of all inputs must match
+https://stackoverflow.com/questions/61513806,61513806,Neural networks XOR returns incorrect output
+https://stackoverflow.com/questions/61488904,61488904,"Received a label value of 200837 which is outside the valid range of [0, 171) when training a python keras sequential model"
+https://stackoverflow.com/questions/61434753,61434753,Neural net has high accuracy but all predictions are wrong
+https://stackoverflow.com/questions/61425296,61425296,Why neural network predicts wrong on its own training data?
+https://stackoverflow.com/questions/61314247,61314247,Not able to reproduce results with Tensorflow even with random seed
+https://stackoverflow.com/questions/61294801,61294801,Keras Accuracy and Loss not changing over a large period of epochs
+https://stackoverflow.com/questions/61167687,61167687,Simple single layer neural network
+https://stackoverflow.com/questions/61149201,61149201,Does Keras ignore labels of masked values?
+https://stackoverflow.com/questions/61143173,61143173,Simple Tensorflow 2 classifier won't learn
+https://stackoverflow.com/questions/61130836,61130836,Convert Functional Model to Sequential Keras
+https://stackoverflow.com/questions/61122276,61122276,Keras not training on entire dataset
+https://stackoverflow.com/questions/61102948,61102948,Why these Keras Sequential model and Functional API act differently?
+https://stackoverflow.com/questions/61049990,61049990,How to train a multi-class image classifier with Keras
+https://stackoverflow.com/questions/61032817,61032817,Overfitting problem with my validation data
+https://stackoverflow.com/questions/60931790,60931790,Big difference between val-acc and prediction accuracy in Keras Neural Network
+https://stackoverflow.com/questions/60797725,60797725,"Keras - GRU layer with recurrent dropout - loss: 'nan', accuracy: 0"
+https://stackoverflow.com/questions/60766493,60766493,Scaling data for neural network
+https://stackoverflow.com/questions/60761415,60761415,Keras model loss function returning nan
+https://stackoverflow.com/questions/60691599,60691599,Sudden drop in validation accuracy during training
+https://stackoverflow.com/questions/60681221,60681221,"Keras CNN val_accuracy, loss, accuracy stuck"
+https://stackoverflow.com/questions/60660394,60660394,How to feed output of keras LSTM layer into input layer?
+https://stackoverflow.com/questions/60622685,60622685,Keras: .predict returns percentages instead of classes
+https://stackoverflow.com/questions/60596666,60596666,ML Model giving me Zero accuracy
+https://stackoverflow.com/questions/60595614,60595614,Keras predict accuracy does not match to fit's result
+https://stackoverflow.com/questions/60550005,60550005,"Keras - Conv2D expects (1,1,1) and got (258, 540, 3)"
+https://stackoverflow.com/questions/60535110,60535110,Tensorflow model accuracy low
+https://stackoverflow.com/questions/60475162,60475162,Why is my neural network validation accuracy higher than my training accuracy and they both become constant?
+https://stackoverflow.com/questions/60393573,60393573,Classification Neural Network does not learn
+https://stackoverflow.com/questions/60370887,60370887,How to create training and testing data and feed into keras model?
+https://stackoverflow.com/questions/60364041,60364041,"CNN validation accuracy high, but bad at predictions?"
+https://stackoverflow.com/questions/60346044,60346044,Keras loss function value doesn't decrease
+https://stackoverflow.com/questions/60290208,60290208,Why training accuracy is not improving?
+https://stackoverflow.com/questions/60288003,60288003,why my Tensorflow CNN's accuracy is zero while loss is not?
+https://stackoverflow.com/questions/60283444,60283444,Training accuracy is less than validation accuracy
+https://stackoverflow.com/questions/60267911,60267911,Keras inconsistent prediction time
+https://stackoverflow.com/questions/60267894,60267894,How can I get better accuracy from my neural network.What is wrong with my code?
+https://stackoverflow.com/questions/60246169,60246169,Finding the appropriate CNN Model Architecture and Parameters
+https://stackoverflow.com/questions/60173627,60173627,"Deep Learning model not accurately predicting , Keras?"
+https://stackoverflow.com/questions/60118607,60118607,I don't exactly understand how am I going to predict custom data with keras
+https://stackoverflow.com/questions/60095832,60095832,Binary image classifier always predicting one class
+https://stackoverflow.com/questions/60035755,60035755,How do I know if my Neural Network model is overfitting or not (Keras)
+https://stackoverflow.com/questions/59997042,59997042,How to produce 1 output with multiple input variables LSTM
+https://stackoverflow.com/questions/59980207,59980207,MLPClassfier predict and predict_proba seem inconsistent
+https://stackoverflow.com/questions/59931473,59931473,Keras: Overfitting Model?
+https://stackoverflow.com/questions/59837926,59837926,Keep Getting Accuracy zero when training Neural Network - Python
+https://stackoverflow.com/questions/59788599,59788599,What are some reasons Bayesian Optimization might not work for a CNN
+https://stackoverflow.com/questions/59740444,59740444,Accuracy remains constant after every epoch
+https://stackoverflow.com/questions/59704981,59704981,Tensorflow slow performances using tf.data.Dataset
+https://stackoverflow.com/questions/59663017,59663017,Loss function in Keras does not match analogical function
+https://stackoverflow.com/questions/59590085,59590085,how do I mask the input of lstm in tf.keras
+https://stackoverflow.com/questions/59553390,59553390,Keras LSTM Model not learning
+https://stackoverflow.com/questions/59518294,59518294,How to sovle audio signal problem by using 1D conv neural network in keras
+https://stackoverflow.com/questions/59490066,59490066,Validation data performing worse than training data in keras
+https://stackoverflow.com/questions/59457567,59457567,How can I create Multiple Input One Output LSTM Model with Keras?
+https://stackoverflow.com/questions/59454562,59454562,How to build a neural network with one single hidden layer using keras?
+https://stackoverflow.com/questions/59449308,59449308,How to use trained deep learning model to predict in excel?
+https://stackoverflow.com/questions/59399842,59399842,Xor gate with Backpropagation
+https://stackoverflow.com/questions/59325381,59325381,Low accuracy after training a CNN
+https://stackoverflow.com/questions/59201907,59201907,Overfitting on image classification
+https://stackoverflow.com/questions/59138513,59138513,Keras sequential model not training (Stuck on the same Accuracy and Loss)
+https://stackoverflow.com/questions/59132526,59132526,loss value don't change(neural network)
+https://stackoverflow.com/questions/59131007,59131007,Keras Binary Classifier Tutorial Example gives only 50% validation accuracy
+https://stackoverflow.com/questions/59129802,59129802,LOSS not changeing in very simple KERAS binary classifier
+https://stackoverflow.com/questions/59081232,59081232,How to convert the following sequential model into a functional model in keras
+https://stackoverflow.com/questions/59015351,59015351,The predict_proba() function of MLPClassifier from sklearn outputs the total possibility is not equal to one
+https://stackoverflow.com/questions/58855234,58855234,predict result for single record using keras model predict
+https://stackoverflow.com/questions/58847723,58847723,Keras Network is not learning
+https://stackoverflow.com/questions/58649672,58649672,Significance of loss in classification with Keras
+https://stackoverflow.com/questions/58582301,58582301,Prediction is identical for all input data in Multi-Label Classification (NLP)
+https://stackoverflow.com/questions/58552433,58552433,"Cifar-100 Dataset Error - Received a label value of 97 which is outside the valid range of [0, 10)"
+https://stackoverflow.com/questions/58527815,58527815,How to preprocess and feed data to keras model?
+https://stackoverflow.com/questions/58508286,58508286,TensorFlow Model not performing any training
+https://stackoverflow.com/questions/58500095,58500095,Keras Multilayer Perceptron train data show loss = nan
+https://stackoverflow.com/questions/58481824,58481824,how to fix overfitting or where is my fault in my code
+https://stackoverflow.com/questions/58474361,58474361,Good accuracy but wrong prediction
+https://stackoverflow.com/questions/58465027,58465027,CNN training loss stuck at values between 51-60
+https://stackoverflow.com/questions/58455975,58455975,Validation accuracy not improving after reaching 90%
+https://stackoverflow.com/questions/58436796,58436796,How to teach keras neural network to solve sqrt
+https://stackoverflow.com/questions/58408578,58408578,Keras VGG16 low validation accuracy
+https://stackoverflow.com/questions/58344477,58344477,Keras image classification: High accuracy shown but low on test images
+https://stackoverflow.com/questions/58329949,58329949,How to increase validation accuracy?
+https://stackoverflow.com/questions/58299659,58299659,"Keras model.predict with sigmoid activation and binary cross entropy returns only 0 or 1, not probability"
+https://stackoverflow.com/questions/58277179,58277179,Accuracy is zero all the time
+https://stackoverflow.com/questions/58252954,58252954,Keras model only working with Sigmoid activation
+https://stackoverflow.com/questions/58220535,58220535,Keras: training of loaded model is 6x slower
+https://stackoverflow.com/questions/58146961,58146961,Keras fit_generator doesn't predict the same as fit
+https://stackoverflow.com/questions/58120931,58120931,The loss and accuracy of this LSTM both drop to nearly 0 at the same epoch
+https://stackoverflow.com/questions/58119629,58119629,Validation Accuracy of CNN not increasing
+https://stackoverflow.com/questions/58108454,58108454,relu function neural network outputting 0 or 1
+https://stackoverflow.com/questions/58083502,58083502,Binary Classification Neural Network: both Nan loss and NaN predictions
+https://stackoverflow.com/questions/58043606,58043606,Keras predicts same result for any input
+https://stackoverflow.com/questions/58032882,58032882,Keras CNN high accuracy but bad predictions. How to improve it
+https://stackoverflow.com/questions/58028976,58028976,TypeError: Unexpected keyword argument passed to optimizer: learning_rate
+https://stackoverflow.com/questions/57976140,57976140,Keras model learning to give wrong answers training accuracy raising to 0.8 to then deacrease dramatically down to 0.1
+https://stackoverflow.com/questions/57962057,57962057,Unwanted [Nan] output in Python neural network
+https://stackoverflow.com/questions/57950901,57950901,One hot encoding of multi label images in keras
+https://stackoverflow.com/questions/57835069,57835069,Kernel Threw Exception in kaggle submission
+https://stackoverflow.com/questions/57787386,57787386,How to increase accuracy in Convolutional neural network
+https://stackoverflow.com/questions/57771706,57771706,Why is accuracy and loss staying exactly the same while training?
+https://stackoverflow.com/questions/57658571,57658571,Predicting a single image with Keras' ImageDataGenerator
+https://stackoverflow.com/questions/57605741,57605741,Convolutional Net Model not working on very simple data
+https://stackoverflow.com/questions/57592155,57592155,Basic time series prediction with lstm
+https://stackoverflow.com/questions/57559917,57559917,Overfitting DL model?
+https://stackoverflow.com/questions/57453511,57453511,Why would the loss decrease while the accuracy stays the same?
+https://stackoverflow.com/questions/57208478,57208478,Loss not decrasing and is very high keras
+https://stackoverflow.com/questions/57182449,57182449,Loss is NaN on image classification task
+https://stackoverflow.com/questions/57154594,57154594,"How to fix tensorflow ""InvalidArgumentError: Shapes of all inputs must match"""
+https://stackoverflow.com/questions/57154569,57154569,shape of output tensor by keras.losses.binary_crossentropy
+https://stackoverflow.com/questions/57147999,57147999,my model's Training/Validation accuracy behave strange
+https://stackoverflow.com/questions/57141521,57141521,CNN giving random answers while fully-connected neural network works fine
+https://stackoverflow.com/questions/57115833,57115833,Why tensorflow is slower with GPU instead of CPU?
+https://stackoverflow.com/questions/57093511,57093511,How to increase the accuracy of my cnn model?
+https://stackoverflow.com/questions/57026595,57026595,Model accuracy stuck at 0.2505. What is wrong with my code?
+https://stackoverflow.com/questions/56913286,56913286,Unable to train neural network properly
+https://stackoverflow.com/questions/56895339,56895339,Following a TensorFlow tutorial and am not getting accurate model predictions
+https://stackoverflow.com/questions/56893429,56893429,Validation accuracy/loss goes up and down linearly with every consecutive epoch
+https://stackoverflow.com/questions/56841451,56841451,Why is my neural net only predicting one class (binary classification)?
+https://stackoverflow.com/questions/56815476,56815476,Very good validation accuracy but bad predictions
+https://stackoverflow.com/questions/56797099,56797099,Label value is outside the valid range
+https://stackoverflow.com/questions/56708518,56708518,tensorflow mnist neural network model low accuracy
+https://stackoverflow.com/questions/56632808,56632808,Why is my validation accuracy stuck around 65% and how do i increase it?
+https://stackoverflow.com/questions/56564555,56564555,"Very high training accuracy and low loss during training, but bad classification"
+https://stackoverflow.com/questions/56545687,56545687,keras will only give accuracy of 0.5001
+https://stackoverflow.com/questions/56538095,56538095,"Overfitting Problem, validation success rate way low than training. What can I change?"
+https://stackoverflow.com/questions/56523793,56523793,Keras MLP classifier not learning
+https://stackoverflow.com/questions/56450080,56450080,when training sample increases accuracy decreases
+https://stackoverflow.com/questions/56416190,56416190,I get different result for the same keras model
+https://stackoverflow.com/questions/56308413,56308413,Unable to solve the XOR problem with just two hidden neurons in Python
+https://stackoverflow.com/questions/56217358,56217358,Accuracy of LSTM model is very low
+https://stackoverflow.com/questions/56207651,56207651,Why doesn't the accuracy when training VGG-16 change much?
+https://stackoverflow.com/questions/56194642,56194642,"Error when running LSTM model, Loss: NaN values"
+https://stackoverflow.com/questions/56163009,56163009,How inputs are being taken in keras?
+https://stackoverflow.com/questions/56032900,56032900,why does keras model.predict only return one probability?How can I output all probabilities of all the classes?
+https://stackoverflow.com/questions/56022302,56022302,My CNN image recognition model produces fluctuating validation loss
+https://stackoverflow.com/questions/56001866,56001866,Why is the validation accuracy constant at 20%?
+https://stackoverflow.com/questions/55954602,55954602,Image Classifier with Tensorflow and Keras
+https://stackoverflow.com/questions/55949613,55949613,CNN on small dataset is overfiting
+https://stackoverflow.com/questions/55944143,55944143,Multi-class Keras perceptron classifier is classifying everything as a single class
+https://stackoverflow.com/questions/55930227,55930227,keras predict only gives 1 but loss value decrease
+https://stackoverflow.com/questions/55882618,55882618,Why won't accuracy increase when training this CNN?
+https://stackoverflow.com/questions/55779691,55779691,How can I convert the sigmoid activation function outputs to 0s and 1s?
+https://stackoverflow.com/questions/55776436,55776436,Keras: CNN model is not learning
+https://stackoverflow.com/questions/55776200,55776200,Keras neural network prediction not working
+https://stackoverflow.com/questions/55736880,55736880,Keras model predict output is an array with values between 0 and 1
+https://stackoverflow.com/questions/55704873,55704873,Why I get nan for Keras loss?
+https://stackoverflow.com/questions/55695575,55695575,Testing accuracy higher than training accuracy
+https://stackoverflow.com/questions/55670349,55670349,Errors with simple Neural Network in Keras/Tensorflow
+https://stackoverflow.com/questions/55666255,55666255,Why is my keras model always predicting the same result?
+https://stackoverflow.com/questions/55660172,55660172,Is that possible to get only 0 and 1 For multiclass multilabel problem in tensorflow.keras.models.Sequential.predict?
+https://stackoverflow.com/questions/55566617,55566617,Model trained using LSTM is predicting only same value for all
+https://stackoverflow.com/questions/55549537,55549537,Tensorflow CNN zero accuracy?
+https://stackoverflow.com/questions/55431690,55431690,"Keras network fit: loss is 'nan', accuracy doesn't change"
+https://stackoverflow.com/questions/55382747,55382747,Training loss does not decrease
+https://stackoverflow.com/questions/55375849,55375849,Keras stops learning at one point
+https://stackoverflow.com/questions/55339103,55339103,How to build input function for a estimator created from keras model
+https://stackoverflow.com/questions/55322991,55322991,Why am I getting Nan after adding relu activation in LSTM?
+https://stackoverflow.com/questions/55321843,55321843,Why my keras code doesn't show the accuracy value?
+https://stackoverflow.com/questions/55317559,55317559,"how to improve neural network prediction, classification"
+https://stackoverflow.com/questions/55309566,55309566,Keras model.predict only returns one figure for binary classification task
+https://stackoverflow.com/questions/55266853,55266853,how to increase model accuracy in image classification model
+https://stackoverflow.com/questions/55212422,55212422,Multiple Features at the Input Layer Keras Python
+https://stackoverflow.com/questions/55177781,55177781,"Tensorflow: my rnn always output same value, weights of rnn are not trained"
+https://stackoverflow.com/questions/55170460,55170460,Neural network for square (x^2) approximation
+https://stackoverflow.com/questions/55097362,55097362,Different accuracy by fit() and evaluate() in Keras with the same dataset
+https://stackoverflow.com/questions/55051978,55051978,Loss of CNN in Keras becomes nan at some point of training
+https://stackoverflow.com/questions/55005691,55005691,Keras model (even during training) only predicts 0
+https://stackoverflow.com/questions/54883847,54883847,loss NAN when use keras training ANN classification
+https://stackoverflow.com/questions/54854934,54854934,Image classification exception - InvalidArgumentError of the given labels
+https://stackoverflow.com/questions/54849499,54849499,Neural Network classification
+https://stackoverflow.com/questions/54816056,54816056,Tensorflow Image Classification Python Always Saying Same Answer
+https://stackoverflow.com/questions/54732675,54732675,Python Keras Prediction returning nan
+https://stackoverflow.com/questions/54580679,54580679,Sklearn metrics values are very different from Keras values
+https://stackoverflow.com/questions/54565092,54565092,"Keras - my model always returns accuracy ""0"" and loss ""nan"""
+https://stackoverflow.com/questions/54509928,54509928,Why is Keras training well but returning wrong predictions?
+https://stackoverflow.com/questions/54377389,54377389,Keras ImageDataGenerator: why are the outputs of my CNN reversed?
+https://stackoverflow.com/questions/54354201,54354201,how to convert the Keras sequential API to functional API
+https://stackoverflow.com/questions/54332796,54332796,Training an autoencoder on my data using Keras
+https://stackoverflow.com/questions/54272461,54272461,Keras Neural Network accuracy only 10%
+https://stackoverflow.com/questions/54263218,54263218,CNN-Divide images into training/validation/testing
+https://stackoverflow.com/questions/54248280,54248280,Neural Network model
+https://stackoverflow.com/questions/54231049,54231049,Keras model accuracy not improving
+https://stackoverflow.com/questions/54207049,54207049,"Keras CNN: validation accuracy stuck at 70%, training accuracy reaching 100%"
+https://stackoverflow.com/questions/54144475,54144475,Tensorflow Keras sigmoid activation in functional API
+https://stackoverflow.com/questions/54125577,54125577,LSTM in Keras returns always the same output
+https://stackoverflow.com/questions/54103770,54103770,Object Localization Keras | Predicts the whole image
+https://stackoverflow.com/questions/54096140,54096140,Keras CNN - loss continuously decreases but accuracy converges quickly
+https://stackoverflow.com/questions/54071443,54071443,real time signal ecg processing
+https://stackoverflow.com/questions/54025916,54025916,convolutional neural network for object localization
+https://stackoverflow.com/questions/53988889,53988889,Why does my keras model not train at all?
+https://stackoverflow.com/questions/53981991,53981991,Using sigmoid activation function for multi-class prediction
+https://stackoverflow.com/questions/53979199,53979199,TensorFlow Keras returning multiple predictions while expecting one
+https://stackoverflow.com/questions/53966446,53966446,LSTM architecture in Keras implementation?
+https://stackoverflow.com/questions/53953528,53953528,How can I create a neural network with Keras that trains from tabular data?
+https://stackoverflow.com/questions/53930651,53930651,Wrong model prediction
+https://stackoverflow.com/questions/53876097,53876097,Keras model doesn't learn at all
+https://stackoverflow.com/questions/53869349,53869349,Keras prediction returns the same results each time
+https://stackoverflow.com/questions/53839351,53839351,Shape error when training a model with Keras (Tensorflow)
+https://stackoverflow.com/questions/53804330,53804330,"Image classification using Keras,CNN training very SLOWLY"
+https://stackoverflow.com/questions/53763021,53763021,Keras masking layer as input to lstm layer
+https://stackoverflow.com/questions/53689840,53689840,Why my model's training and validation accuracy remains constant after one epoch? [Keras]
+https://stackoverflow.com/questions/53640858,53640858,Loss: NaN in Keras while performing regression
+https://stackoverflow.com/questions/53581388,53581388,Neural network for beginner
+https://stackoverflow.com/questions/53562493,53562493,Keras returns binary results
+https://stackoverflow.com/questions/53553797,53553797,Usage of sigmoid activation function in Keras
+https://stackoverflow.com/questions/53524520,53524520,"Neural network can learn |sin(x)| for [0,pi] but not [0,2pi] or [0, 4pi]"
+https://stackoverflow.com/questions/53501575,53501575,Tensorflow/Keras multi-label classifier
+https://stackoverflow.com/questions/53494627,53494627,Loss in Keras Model evaluation
+https://stackoverflow.com/questions/53488768,53488768,Keras functional API: Combine CNN model with a RNN to to look at sequences of images
+https://stackoverflow.com/questions/53482251,53482251,How to Convert Keras Prediction Output to desired Binary Value
+https://stackoverflow.com/questions/53481675,53481675,Keras Always Output a Constant Value
+https://stackoverflow.com/questions/53452745,53452745,Regression: How can I approximate a multi-dimensional function?
+https://stackoverflow.com/questions/53396670,53396670,Unable to reproduce tensorflow results even after setting random seed
+https://stackoverflow.com/questions/53389331,53389331,How can I get multiple outputs in an LSTM network in Python with Keras and Tensorflow?
+https://stackoverflow.com/questions/53374114,53374114,"Tensorflow accuracy stuck at 25% for 4 labels, text classification"
+https://stackoverflow.com/questions/53359127,53359127,Keras-- low accuracy with LSTM layer but the accuracy is good without LSTM
+https://stackoverflow.com/questions/53330006,53330006,CNN - Wrong prediction with multiclass classification
+https://stackoverflow.com/questions/53277246,53277246,The results after each training keras model are different
+https://stackoverflow.com/questions/53265281,53265281,How to improve prediction with keras and tensorflow
+https://stackoverflow.com/questions/53242875,53242875,Accuracy Decreasing with higher epochs
+https://stackoverflow.com/questions/53194704,53194704,Keras loss function understanding
+https://stackoverflow.com/questions/53194564,53194564,Tensorflow Keras CuDNN LSTM layers do not support Masking
+https://stackoverflow.com/questions/53177605,53177605,Model not learning
+https://stackoverflow.com/questions/53131397,53131397,Loss function Keras out_dim > 1
+https://stackoverflow.com/questions/53071588,53071588,Can't figure out why I'm only getting one value from predict function?
+https://stackoverflow.com/questions/53047848,53047848,keras LSTM poor prediction
+https://stackoverflow.com/questions/52929868,52929868,"Simple binary classification by CNN with Keras, But got only 50% acc"
+https://stackoverflow.com/questions/52880384,52880384,Keras loss becomes nan only at epoch end
+https://stackoverflow.com/questions/52857959,52857959,Same output of the Keras model
+https://stackoverflow.com/questions/52775197,52775197,Tensorflow model outputs probability values larger than 1
+https://stackoverflow.com/questions/52653320,52653320,predict_proba() method of Keras model does not exist
+https://stackoverflow.com/questions/52647115,52647115,python - Implementing an LSTM network with Keras and TensorFlow
+https://stackoverflow.com/questions/52632567,52632567,Keras fit and fit_generator returns quite different results
+https://stackoverflow.com/questions/52595477,52595477,Why is this Keras Conv2D layer not compatible with the input?
+https://stackoverflow.com/questions/52483437,52483437,Poor accuracy of Keras VGG16 while reproducing paper results
+https://stackoverflow.com/questions/52463634,52463634,"Tensorflow, square root activation function implementation (shaping error)"
+https://stackoverflow.com/questions/52462058,52462058,Keras Image Preprocessing
+https://stackoverflow.com/questions/52459748,52459748,image multi classification with keras
+https://stackoverflow.com/questions/52455928,52455928,keras loss is nan but accuracy well defined
+https://stackoverflow.com/questions/52448552,52448552,Cannot find the reason behind very low accuracy in my Convolutional Net model with Keras
+https://stackoverflow.com/questions/52445293,52445293,Bad performance of the model Keras
+https://stackoverflow.com/questions/52435394,52435394,Replacing sigmoid activation with custom activation
+https://stackoverflow.com/questions/52423163,52423163,Sigmoid function returns 1 for large positive inputs
+https://stackoverflow.com/questions/52376142,52376142,Predicting in Keras with LSTM layer
+https://stackoverflow.com/questions/52326106,52326106,Keras seems slower than tensorflow while feeding training data
+https://stackoverflow.com/questions/52282108,52282108,Keras: Accuracy Drops While Finetuning Inception
+https://stackoverflow.com/questions/52254466,52254466,InvalidArgumentError: Incompatible shapes with Keras LSTM Net
+https://stackoverflow.com/questions/52231830,52231830,Neural Network architecture to learn function
+https://stackoverflow.com/questions/52220242,52220242,Why does the loss of a CNN decrease for a long time and then suddenly increase?
+https://stackoverflow.com/questions/52208950,52208950,CNN Model With Low Accuracy
+https://stackoverflow.com/questions/52205479,52205479,Negative Binomial Loss in Neural Network using Tensorflow / Keras
+https://stackoverflow.com/questions/52188991,52188991,Keras CNN - Model either underfitting or overfitting
+https://stackoverflow.com/questions/52184053,52184053,Why do I have such inconsistent results when training my model?
+https://stackoverflow.com/questions/52085388,52085388,"Keras model loss starts at 0, but only sometimes"
+https://stackoverflow.com/questions/52027278,52027278,Do I need a stateful or stateless LSTM?
+https://stackoverflow.com/questions/52009816,52009816,How to know if underfitting or overfitting is occuring?
+https://stackoverflow.com/questions/51999181,51999181,Training accuracy improves but validation accuracy remains same
+https://stackoverflow.com/questions/51971180,51971180,"Keras GRU model predicts only [-0., -0., -0., -0., -0.]"
+https://stackoverflow.com/questions/51933123,51933123,How to fix a constant validation accuracy in machine learning?
+https://stackoverflow.com/questions/51931932,51931932,LSTM prediction model : the loss value doesn't change
+https://stackoverflow.com/questions/51902539,51902539,Make a simple KERAS network for classification
+https://stackoverflow.com/questions/51885923,51885923,Keras model building
+https://stackoverflow.com/questions/51882681,51882681,Python simple neural network code not working
+https://stackoverflow.com/questions/51874969,51874969,one class classification with keras
+https://stackoverflow.com/questions/51840826,51840826,Unable to train simple autoencoder in Keras
+https://stackoverflow.com/questions/51828971,51828971,Tensorflow model accuracy not increasing
+https://stackoverflow.com/questions/51814138,51814138,Why isn't my XOR tensorflow network learning?
+https://stackoverflow.com/questions/51785432,51785432,Neural net with duplicated inputs - Keras
+https://stackoverflow.com/questions/51728551,51728551,Simple Tensorflow architecture not training
+https://stackoverflow.com/questions/51706774,51706774,Keras model giving constantly same output class?
+https://stackoverflow.com/questions/51695149,51695149,Deep Learning: Validation Loss Fluctuates Wildly Yet Training Loss is Stable
+https://stackoverflow.com/questions/51658122,51658122,"Keras loss is in negative and accuracy is going down, but predictions are good?"
+https://stackoverflow.com/questions/51627825,51627825,Inconsistency in Keras Sequential model vs Functional API
+https://stackoverflow.com/questions/51570785,51570785,Why my ANN is not learning?
+https://stackoverflow.com/questions/51515544,51515544,Tensorflow faster rcnn giving good detection but still detecting false positives with coco objects
+https://stackoverflow.com/questions/51506957,51506957,Getting all the same values in keras model.predict
+https://stackoverflow.com/questions/51466437,51466437,Does my Keras Neural Networks accuracy always get stuck around a value of ~0.55 because of my optimizer?
+https://stackoverflow.com/questions/51453964,51453964,Image Classification with TensorFlow and Keras
+https://stackoverflow.com/questions/51445857,51445857,Signal classification based on keras stateful LSTM
+https://stackoverflow.com/questions/51445689,51445689,Why I'm getting all 1s in keras when I use model.predict?
+https://stackoverflow.com/questions/51441690,51441690,how to prevent negative predictions in keras custom loss function
+https://stackoverflow.com/questions/51374115,51374115,Why my Keras Image classification prediction always return one value...?
+https://stackoverflow.com/questions/51365661,51365661,Why does more epochs make my model worse?
+https://stackoverflow.com/questions/51335133,51335133,Keras: How come 'accuracy' is higher than 'val_acc'?
+https://stackoverflow.com/questions/51312608,51312608,I can not train a logical operation xor
+https://stackoverflow.com/questions/51309569,51309569,Keras Training Why Training accuracy Increases while the validation accuracy remains same?
+https://stackoverflow.com/questions/51308774,51308774,Predictions more than 1 or negative in Keras
+https://stackoverflow.com/questions/51203785,51203785,couldn't train a model in keras
+https://stackoverflow.com/questions/51200361,51200361,Constructing a keras model
+https://stackoverflow.com/questions/51187664,51187664,"Why is this keras network not ""learning""?"
+https://stackoverflow.com/questions/51163411,51163411,Keras neural network function approximation
+https://stackoverflow.com/questions/51156573,51156573,Why is my Neural Net not learning
+https://stackoverflow.com/questions/51142990,51142990,Accuracy value doesn't match prediction result of my keras model
+https://stackoverflow.com/questions/51125933,51125933,LSTM layer returns nan when fed by its own output in PyTorch
+https://stackoverflow.com/questions/51113328,51113328,"Keras high loss, not decreasing with each epoch"
+https://stackoverflow.com/questions/51091758,51091758,Learning a Sin function
+https://stackoverflow.com/questions/51063631,51063631,How to create correctly an estimator with TensorFlow
+https://stackoverflow.com/questions/50964401,50964401,Image classification: Best approach to training the model
+https://stackoverflow.com/questions/50910828,50910828,Keras model doesn't seem to work
+https://stackoverflow.com/questions/50863516,50863516,Issue in extracting Titanic training data from Kaggle using Jupyter Notebook
+https://stackoverflow.com/questions/50837715,50837715,Conversion of a sequential model to a functional model with Keras 2.2.0
+https://stackoverflow.com/questions/50831870,50831870,"CNN with keras, accuracy remains constant and does not improve"
+https://stackoverflow.com/questions/50820527,50820527,Why does my model accuracy get stuck at ~32%?
+https://stackoverflow.com/questions/50797135,50797135,Why does this neural network have zero accuracy and very low loss?
+https://stackoverflow.com/questions/50787555,50787555,Can't train a keras model to approximate a simple function
+https://stackoverflow.com/questions/50756732,50756732,training accuracy drops in tensorflow
+https://stackoverflow.com/questions/50718447,50718447,A neural networks with two outputs
+https://stackoverflow.com/questions/50703359,50703359,How to develop a convolutional neural network to differentiate images with similar features?
+https://stackoverflow.com/questions/50672583,50672583,Keras: Categorical vs Continuous input to a LSTM
+https://stackoverflow.com/questions/50596163,50596163,Getting loss value as 0 when training a neural network
+https://stackoverflow.com/questions/50513539,50513539,Cannot reproduce results with Keras
+https://stackoverflow.com/questions/50452598,50452598,Sigmoid of x is 1
+https://stackoverflow.com/questions/50394921,50394921,Keras explanation: number of nodes in input layer
+https://stackoverflow.com/questions/50380863,50380863,RNN/LSTM deep learning model?
+https://stackoverflow.com/questions/50306988,50306988,Neural net fails on toy dataset
+https://stackoverflow.com/questions/50266585,50266585,Implementing sigmoid function in python
+https://stackoverflow.com/questions/50244697,50244697,neural network xor gate classification
+https://stackoverflow.com/questions/50227925,50227925,How to predict from saved model in Keras ?
+https://stackoverflow.com/questions/50140500,50140500,"Keras NN regression model gives low loss, and 0 acuracy"
+https://stackoverflow.com/questions/50115762,50115762,Output Probability score with keras using model.predict()
+https://stackoverflow.com/questions/49971092,49971092,Tensorflow - Model Only Predicting 2 Classes Out of 6
+https://stackoverflow.com/questions/49930518,49930518,LSTM timeseries prediction with multiple outputs
+https://stackoverflow.com/questions/49912503,49912503,Multiple predictions of multi-class image classification with Keras
+https://stackoverflow.com/questions/49882424,49882424,Keras Tensorflow Binary Cross entropy loss greater than 1
+https://stackoverflow.com/questions/49837507,49837507,"good accuracy , but bad prediction with keras"
+https://stackoverflow.com/questions/49811350,49811350,Python | Keras | Prediction with Multiple Variables
+https://stackoverflow.com/questions/49806496,49806496,Loss and accuracy don't change during the training phase
+https://stackoverflow.com/questions/49779836,49779836,python keras neural network prediction not working (outputs 0 or 1)
+https://stackoverflow.com/questions/49741328,49741328,Simple Neural Network built from scratch is not learning
+https://stackoverflow.com/questions/49739356,49739356,Keras: convolutional layer for 1D input
+https://stackoverflow.com/questions/49729362,49729362,nan on loss function tensorflow
+https://stackoverflow.com/questions/49661708,49661708,Keras LSTM Multiple Input Multiple Output
+https://stackoverflow.com/questions/49633321,49633321,Keras - Loss Nan and 0.333 accuracy throughout the training
+https://stackoverflow.com/questions/49560420,49560420,Deep Learning implementation in Tensorflow or Keras give drastic different results
+https://stackoverflow.com/questions/49492740,49492740,"Tensorflow InvalidArgumentError: indices[40] = 2000 0 is not in [0, 20000)"
+https://stackoverflow.com/questions/49404205,49404205,how to input data into KERAS python?
+https://stackoverflow.com/questions/49369176,49369176,Deep autoencoder keeping constant accuracy in keras
+https://stackoverflow.com/questions/49332994,49332994,Python - Low accuracy with low loss with tensorflow
+https://stackoverflow.com/questions/49312989,49312989,Keras: calculating derivatives of model output wrt input returns [None]
+https://stackoverflow.com/questions/49275827,49275827,Preblem in shape of data with Conv1D in Keras
+https://stackoverflow.com/questions/49254249,49254249,How to One input and Three output LSTM tensorflow
+https://stackoverflow.com/questions/49216731,49216731,Output of conv2d in keras
+https://stackoverflow.com/questions/49213870,49213870,"High val_acc, but low accuracy in practice"
+https://stackoverflow.com/questions/49145544,49145544,Tensorflow: loss value is inconsistent with accuracy
+https://stackoverflow.com/questions/49135929,49135929,Keras Binary Classification - Sigmoid activation function
+https://stackoverflow.com/questions/49085619,49085619,Convolutional Neural Network Loss
+https://stackoverflow.com/questions/48967068,48967068,Loss become Nan suddenly after some iterations
+https://stackoverflow.com/questions/48817095,48817095,Keras - How to actually use an autoencoder
+https://stackoverflow.com/questions/48796619,48796619,Why is TF Keras inference way slower than Numpy operations?
+https://stackoverflow.com/questions/48754467,48754467,Function approximation Tensorflow
+https://stackoverflow.com/questions/48714786,48714786,Loss & val_loss of keras CNN
+https://stackoverflow.com/questions/48619600,48619600,Stagnant validation accuracy during training of vgg net with 10000 images
+https://stackoverflow.com/questions/48604708,48604708,Tensorflow returns 10% validation accuracy for VGG model (irrespective of number of epochs)?
+https://stackoverflow.com/questions/48594888,48594888,"CNN train accuracy gets better during training, but test accuracy stays around 40%"
+https://stackoverflow.com/questions/48562099,48562099,Keras : Why does Sequential and Model give different outputs?
+https://stackoverflow.com/questions/48539256,48539256,Bigger neural network converges to bigger error than smaller
+https://stackoverflow.com/questions/48513397,48513397,Keras validation loss
+https://stackoverflow.com/questions/48500037,48500037,Approximating multidimensional functions with neural networks
+https://stackoverflow.com/questions/48490280,48490280,Keras custom loss not calculated correctly
+https://stackoverflow.com/questions/48458635,48458635,Getting very bad prediction with KerasRegressor
+https://stackoverflow.com/questions/48351688,48351688,input preprocessing in Keras
+https://stackoverflow.com/questions/48286504,48286504,Weird Nan loss for custom Keras loss
+https://stackoverflow.com/questions/48239431,48239431,Wrong prediction on images
+https://stackoverflow.com/questions/48229635,48229635,CIFAR-10 Dataset using Keras
+https://stackoverflow.com/questions/48217119,48217119,keras - get probability per each class
+https://stackoverflow.com/questions/48216574,48216574,ANN: keras/sklearn doesn't scale well
+https://stackoverflow.com/questions/48187607,48187607,accuracy not increasing in tensorflow model
+https://stackoverflow.com/questions/48140133,48140133,use negative loss in tensorflow
+https://stackoverflow.com/questions/48129814,48129814,Keras LSTM Converges on the Dataset's Mean Value
+https://stackoverflow.com/questions/48126996,48126996,Keras autoencoder negative loss and val_loss with data in range [-1 1]
+https://stackoverflow.com/questions/48121895,48121895,Poor accuracy in Tensorflow CNN implementation
+https://stackoverflow.com/questions/48041867,48041867,Why is accuracy different between Keras model.fit and model.evaluate?
+https://stackoverflow.com/questions/47947629,47947629,"Tensorflow: Keras, Estimators and custom input function"
+https://stackoverflow.com/questions/47932589,47932589,Neural network: estimating sine wave frequency
+https://stackoverflow.com/questions/47750930,47750930,Keras always predicting the same output
+https://stackoverflow.com/questions/47723487,47723487,XOR neural network 2-1-1
+https://stackoverflow.com/questions/47626469,47626469,convnet suddenly drop accuracy
+https://stackoverflow.com/questions/47599436,47599436,Returning probabilities in a classification prediction in Keras?
+https://stackoverflow.com/questions/47564039,47564039,Keras: why the accuracy not changing when training
+https://stackoverflow.com/questions/47442792,47442792,Keras: loss keeps increasing
+https://stackoverflow.com/questions/47429267,47429267,Why is this neural network's loss always 0.0 and accuracy always 1.0?
+https://stackoverflow.com/questions/47346809,47346809,Negative result for regression using Keras and Tensorflow
+https://stackoverflow.com/questions/47338980,47338980,Tensorflow-loss not decreasing when training
+https://stackoverflow.com/questions/47315101,47315101,Binary classification always outputs 1
+https://stackoverflow.com/questions/47258359,47258359,Autoencoder using Backpropagation
+https://stackoverflow.com/questions/47245866,47245866,Tensorflow - Loss increases to NaN
+https://stackoverflow.com/questions/47216529,47216529,very low accuracy in Neural networks using keras and validation accuracy 0.0000e+00
+https://stackoverflow.com/questions/47116894,47116894,Keras LSTM Accuracy too high
+https://stackoverflow.com/questions/47057361,47057361,How do I mask a loss function in Keras with the TensorFlow backend?
+https://stackoverflow.com/questions/47028242,47028242,Multiclassification in Python using keras error
+https://stackoverflow.com/questions/46998182,46998182,predict sine with tensorflow is different than with keras
+https://stackoverflow.com/questions/46982222,46982222,Keras multiple binary outputs
+https://stackoverflow.com/questions/46880887,46880887,Keras sequence prediction with multiple simultaneous sequences
+https://stackoverflow.com/questions/46836857,46836857,Results not reproducible with Keras and TensorFlow in Python
+https://stackoverflow.com/questions/46775242,46775242,how to solve the conv2d error?
+https://stackoverflow.com/questions/46700479,46700479,Can't get simple tensorflow logistic regression program to work with sigmoid activation function.
+https://stackoverflow.com/questions/46697007,46697007,Keras binary classification squash output to zero/one
+https://stackoverflow.com/questions/46685698,46685698,How to do multi-class image classification in keras?
+https://stackoverflow.com/questions/46535855,46535855,Basic Neural Net Predictions?
+https://stackoverflow.com/questions/46359741,46359741,Keras giving unexpected output for simple binary classification
+https://stackoverflow.com/questions/46240629,46240629,"loss, val_loss, acc and val_acc do not update at all over epochs"
+https://stackoverflow.com/questions/46210876,46210876,Use neural network to learn a square wave function
+https://stackoverflow.com/questions/46164419,46164419,Tensorflow:assertion failed: [`labels` out of bound]
+https://stackoverflow.com/questions/46134434,46134434,Keras Sequential Neural Network
+https://stackoverflow.com/questions/46119435,46119435,"Keras LSTM - why different results with ""same"" model & same weights?"
+https://stackoverflow.com/questions/46102209,46102209,CNN Overfitting (with output and code)
+https://stackoverflow.com/questions/46097200,46097200,Keras input shape
+https://stackoverflow.com/questions/46081487,46081487,Multi-modal neural network training loss is not decreasing
+https://stackoverflow.com/questions/46040656,46040656,Binary Keras LSTM model does not output binary predictions
+https://stackoverflow.com/questions/46038671,46038671,how to prepare image dataset for training model?
+https://stackoverflow.com/questions/46034363,46034363,Defining model in Keras
+https://stackoverflow.com/questions/46014723,46014723,Keras Extremely High Loss
+https://stackoverflow.com/questions/45992831,45992831,Why does my squared loss becomes negative in TensorFlow?
+https://stackoverflow.com/questions/45945398,45945398,Keras' `model.fit_generator()` behaves different than `model.fit()`
+https://stackoverflow.com/questions/45907431,45907431,Shape mismatch in LSTM in keras
+https://stackoverflow.com/questions/45886645,45886645,NaN loss in tensorflow LSTM model
+https://stackoverflow.com/questions/45871016,45871016,simple keras nn does not predict well
+https://stackoverflow.com/questions/45826089,45826089,Keras NN loss not decreasing
+https://stackoverflow.com/questions/45632549,45632549,Why is the accuracy for my Keras model always 0 when training?
+https://stackoverflow.com/questions/45608460,45608460,TensorFlow Object Detection API poor results
+https://stackoverflow.com/questions/45594805,45594805,Keras: Why isn't model.fit() returning the same values as model.evaluate()?
+https://stackoverflow.com/questions/45587378,45587378,How to get predicted values in Keras?
+https://stackoverflow.com/questions/45586978,45586978,Keras poor performance (Loss and optimization functions?)
+https://stackoverflow.com/questions/45545109,45545109,Keras - Autoencoder accuracy stuck on zero
+https://stackoverflow.com/questions/45504710,45504710,dropout with relu activations
+https://stackoverflow.com/questions/45473426,45473426,How to increase accuracy of neural networks
+https://stackoverflow.com/questions/45442843,45442843,Sigmoid layer in Keras
+https://stackoverflow.com/questions/45420318,45420318,Keras multiclass classification probabilities do not sum up to 1
+https://stackoverflow.com/questions/45363216,45363216,Test accuracy keeps changing for the same data set
+https://stackoverflow.com/questions/45349950,45349950,Why do I get a low accuracy in this neural network (tensorflow)?
+https://stackoverflow.com/questions/45278276,45278276,"TensorFlow : lstm dropout implementation, shape problems"
+https://stackoverflow.com/questions/45198019,45198019,scaling data in NN gives worse results in time and error
+https://stackoverflow.com/questions/45196416,45196416,Function approximation with Neural Network - Loss 0
+https://stackoverflow.com/questions/45191767,45191767,Tensorflow - loss not decreasing
+https://stackoverflow.com/questions/45190707,45190707,Keras deep learning why validation accuracy stuck in a value every time?
+https://stackoverflow.com/questions/45011328,45011328,predict_proba does not output probability
+https://stackoverflow.com/questions/44930153,44930153,Keras and Sklearn logreg returning different results
+https://stackoverflow.com/questions/44911378,44911378,Getting started with Keras for machine learning
+https://stackoverflow.com/questions/44807724,44807724,Running Tensorflow Predictions code twice does *not* result same outcome
+https://stackoverflow.com/questions/44785924,44785924,Generating data for training in keras
+https://stackoverflow.com/questions/44771114,44771114,Low loss and very very low accuracy
+https://stackoverflow.com/questions/44758126,44758126,Handling Binary Input / Output
+https://stackoverflow.com/questions/44716415,44716415,Approximating sine function with Neural Network and ReLU
+https://stackoverflow.com/questions/44684840,44684840,TensorFlow Object Detection Model demo not working accurately
+https://stackoverflow.com/questions/44639940,44639940,Replicate MLPClassifier() of sklearn in keras
+https://stackoverflow.com/questions/44627977,44627977,Keras Multi-inputs AttributeError: 'NoneType' object has no attribute 'inbound_nodes'
+https://stackoverflow.com/questions/44564634,44564634,keras backend proba to categorical
+https://stackoverflow.com/questions/44493395,44493395,Keras: model accuracy drops after reaching 99 percent accuracy and loss 0.01
+https://stackoverflow.com/questions/44477443,44477443,Training and validation accuracy suddenly drops in convolutional neural network (CNN)
+https://stackoverflow.com/questions/44466157,44466157,"Python, keras, Convolutional autoencoder"
+https://stackoverflow.com/questions/44395913,44395913,Keras neural network model accuracy is always zero
+https://stackoverflow.com/questions/44385805,44385805,Tensorflow always predict the same output
+https://stackoverflow.com/questions/44305760,44305760,sequential model give a different result at every run
+https://stackoverflow.com/questions/44258739,44258739,Trained and Loaded Keras Sequential Model is giving different result
+https://stackoverflow.com/questions/44220605,44220605,Keras validation loss from model.fit() not expected
+https://stackoverflow.com/questions/44151760,44151760,"Received a label value of 1 which is outside the valid range of [0, 1) - Python, Keras"
+https://stackoverflow.com/questions/44130892,44130892,In Neural Networks: accuracy improvement after each epoch is GREATER than accuracy improvement after each batch. Why?
+https://stackoverflow.com/questions/44003302,44003302,Porting loss function written in Tensorflow to Keras results in AttributeError
+https://stackoverflow.com/questions/43951554,43951554,Nan when training model wit RMSE/ RMSLE loss function
+https://stackoverflow.com/questions/43881364,43881364,Why can model not even predict sine
+https://stackoverflow.com/questions/43776661,43776661,TensorFlow model gets loss 0
+https://stackoverflow.com/questions/43750322,43750322,XOR not learned using keras v2.0
+https://stackoverflow.com/questions/43720702,43720702,Fitting a sine wave with Keras and PYMC3 yields unexpected results
+https://stackoverflow.com/questions/43714594,43714594,tensorflow rnn nan error
+https://stackoverflow.com/questions/43690350,43690350,Using Keras to structure LSTM model
+https://stackoverflow.com/questions/43636321,43636321,TensorFlow - Training accuracy not improving in MNIST data
+https://stackoverflow.com/questions/43567289,43567289,Keras cross entropy loss
+https://stackoverflow.com/questions/43561420,43561420,Simple Tensorflow Multilayer Neural Network Not Learning
+https://stackoverflow.com/questions/43560208,43560208,Low accuracy classifying colors
+https://stackoverflow.com/questions/43476631,43476631,LSTM with keras
+https://stackoverflow.com/questions/43405492,43405492,No Accuracy in my tensorflow network
+https://stackoverflow.com/questions/43369783,43369783,Tensorflow accuracy issues
+https://stackoverflow.com/questions/43347456,43347456,How to improve the neural networks accuracy?
+https://stackoverflow.com/questions/43331057,43331057,Python: Issues training and predicting regression on Keras
+https://stackoverflow.com/questions/43190607,43190607,Is this an overfitted network?
+https://stackoverflow.com/questions/43140591,43140591,Neural Network to predict nth square
+https://stackoverflow.com/questions/43083381,43083381,Keras - predict_proba does not add up to 1?
+https://stackoverflow.com/questions/43077047,43077047,Possible reasons for overfitting the dataset
+https://stackoverflow.com/questions/43025416,43025416,categorical_crossentropy returns small loss value even if accuracy is 1.00 in keras
+https://stackoverflow.com/questions/42978947,42978947,Incorrect input to Conv2D in Keras
+https://stackoverflow.com/questions/42873166,42873166,Multi-class classification using keras
+https://stackoverflow.com/questions/42851216,42851216,Why did the Keras Sequential model give a different result compared to Model model?
+https://stackoverflow.com/questions/42822486,42822486,Keras model fit_generator odd error
+https://stackoverflow.com/questions/42790561,42790561,LSTM's for Binary classification in Keras?
+https://stackoverflow.com/questions/42681757,42681757,Tensorflow LSTM Gate weights
+https://stackoverflow.com/questions/42652526,42652526,Is this the right way to predict a time series with the stateful LSTM neural network?
+https://stackoverflow.com/questions/42532386,42532386,How to work with multiple inputs for LSTM in Keras?
+https://stackoverflow.com/questions/42524009,42524009,Machine Learning (Adversarial Images)
+https://stackoverflow.com/questions/42453546,42453546,Keras model gets constant loss and accuracy
+https://stackoverflow.com/questions/42447036,42447036,Overfitting my model over my training data of a single sample
+https://stackoverflow.com/questions/42334674,42334674,How to train CNN with an RGB Image
+https://stackoverflow.com/questions/42293600,42293600,Accuracy/Loss doesn't change
+https://stackoverflow.com/questions/42158866,42158866,Neural network for multi label classification with large number of classes outputs only zero
+https://stackoverflow.com/questions/42128605,42128605,Keras classifier predict_proba() doesn't match predict()
+https://stackoverflow.com/questions/41977498,41977498,RNN is not overfitting on simple data
+https://stackoverflow.com/questions/41946894,41946894,Keras dimension mismatch with ImageDataGenerator
+https://stackoverflow.com/questions/41893565,41893565,How to fix my accuracy function in `tensorflow`?
+https://stackoverflow.com/questions/41819457,41819457,Zero accuracy training a neural network in Keras
+https://stackoverflow.com/questions/41716380,41716380,"Keras, output of model predict_proba"
+https://stackoverflow.com/questions/41711190,41711190,"Keras, How to get the output of each layer?"
+https://stackoverflow.com/questions/41568239,41568239,Issue with Python Neural Network Code (Keras)
+https://stackoverflow.com/questions/41334173,41334173,Trained keras model much slower making its predictions than in training
+https://stackoverflow.com/questions/41269518,41269518,Why is my model twice as fast in Tensorflow than in Keras?
+https://stackoverflow.com/questions/41195788,41195788,Why Validation Error Rate remain same value?
+https://stackoverflow.com/questions/40984940,40984940,Deep Network Produce zero Accuracy
+https://stackoverflow.com/questions/40879793,40879793,Tensorflow convert predicted values to binary
+https://stackoverflow.com/questions/40790009,40790009,Tensorflow generate random values unexpected behaviour
+https://stackoverflow.com/questions/40556580,40556580,Extremely basic neural network not learning
+https://stackoverflow.com/questions/40459022,40459022,Neural Network in TensorFlow works worse than Random Forest and predict the same label each time
+https://stackoverflow.com/questions/40435078,40435078,tensorflow prediction contains all zeros
+https://stackoverflow.com/questions/40404468,40404468,Train model to predict simple linear function
+https://stackoverflow.com/questions/40369951,40369951,The model from Keras give me same output
+https://stackoverflow.com/questions/40355288,40355288,One dimensional data with CNN
+https://stackoverflow.com/questions/40158633,40158633,How to solve nan loss?
+https://stackoverflow.com/questions/40045159,40045159,Accuracy not high enough for dogs_cats classification dataset using CNN with Keras-Tf python
+https://stackoverflow.com/questions/40029904,40029904,Understanding why tensorflow RNN is not learning toy data
+https://stackoverflow.com/questions/39976718,39976718,Deep autoencoder in Keras converting one dimension to another i
+https://stackoverflow.com/questions/39681046,39681046,Keras - stateful vs stateless LSTMs
+https://stackoverflow.com/questions/39677062,39677062,Why is my very simple neural network not doing at all well?
+https://stackoverflow.com/questions/39525358,39525358,Neural network accuracy optimization
+https://stackoverflow.com/questions/39489197,39489197,Text Classification for multiple label
+https://stackoverflow.com/questions/39309388,39309388,Keras RNN loss does not decrease over epoch
+https://stackoverflow.com/questions/39250828,39250828,Multi-Label Classifier in Tensorflow
+https://stackoverflow.com/questions/39236601,39236601,How to deal with situation where LSTM fails to learn (constantly makes the same incorrect prediction)
+https://stackoverflow.com/questions/39232176,39232176,"Is my model underfitting, tensorflow?"
+https://stackoverflow.com/questions/39160772,39160772,Keras convolutional neural network validation accuracy not changing
+https://stackoverflow.com/questions/39030672,39030672,Keras ImageDataGenerator not working as expected
+https://stackoverflow.com/questions/39013366,39013366,Approximating a simple sin() function with lasagne
+https://stackoverflow.com/questions/38876765,38876765,How to deal with overfitting in Tensorflow?
+https://stackoverflow.com/questions/38787714,38787714,Keras deep variational autoencoder
+https://stackoverflow.com/questions/38561182,38561182,Neural network XOR gate not learning
+https://stackoverflow.com/questions/38469632,38469632,TensorFlow: Non-repeatable results
+https://stackoverflow.com/questions/37634110,37634110,Approximating non-linear function with NN using Theano
+https://stackoverflow.com/questions/37624102,37624102,Very basic Keras CNN with 2 classes giving inexplicable answers
+https://stackoverflow.com/questions/37613579,37613579,Convolution Neural Network for image detection/classification
+https://stackoverflow.com/questions/37244191,37244191,Model not learning in tensorflow
+https://stackoverflow.com/questions/37044600,37044600,Sudden drop in accuracy while training a deep neural net
+https://stackoverflow.com/questions/36471758,36471758,Simple regression with Keras seems not working properly
+https://stackoverflow.com/questions/36127436,36127436,Tensorflow predicts always the same result
+https://stackoverflow.com/questions/35845448,35845448,Simple XOR example on theano
+https://stackoverflow.com/questions/35599328,35599328,Keras - unable to reduce loss between epochs
+https://stackoverflow.com/questions/35400065,35400065,Multilabel Text Classification using TensorFlow
+https://stackoverflow.com/questions/34228138,34228138,Doesn't work example with Keras framework
+https://stackoverflow.com/questions/33949968,33949968,Tensorflow multi-class ML model issues
+https://stackoverflow.com/questions/33747596,33747596,Problems implementing an XOR gate with Neural Nets in Tensorflow
+https://stackoverflow.com/questions/32771786,32771786,Predictions using a Keras Recurrent Neural Network - accuracy is always 1.0
+https://stackoverflow.com/questions/31556268,31556268,How to use keras for XOR
+https://stackoverflow.com/questions/27699458,27699458,Matlab - ECG Signal
+https://stackoverflow.com/questions/24967484,24967484,Neural Network sigmoid function
+https://stackoverflow.com/questions/16132627,16132627,Finding the function approximated by a neural network
+https://stackoverflow.com/questions/13897316,13897316,Approximating the sine function with a neural network
+https://stackoverflow.com/questions/6542274,6542274,How to train an artificial neural network to play Diablo 2 using visual input?
+https://stackoverflow.com/questions/4387878,4387878,simulator of realistic ECG signal from rr data for matlab or python
+https://stackoverflow.com/questions/1565115,1565115,Unable to approximate the sine function using a neural network
+https://stackoverflow.com/questions/1205449,1205449,Neural net input/output

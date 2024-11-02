@@ -58,8 +58,6 @@ or body like '%unchanged tensor%'
 or body like '%zero%')
 
 -- The previous statement is from deepmufl,we added some additional criteria
---Selecting models using Sequential API
-body like '%Sequential(%'
 --filter out discussions about installment and building of Keras
 and LOWER(title) not like '%how%'
 AND LOWER(title) not like '%install%'
